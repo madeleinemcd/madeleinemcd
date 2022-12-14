@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **madeleinemcd/madeleinemcd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2> Hi, I'm Madeleine </h2>
+<h2 align="center"> Hi, I'm Madeleine </h2>
+<h5 align="center"> (she/her) </h5>
 <h3 align="center"> I'm a Software Developer from New Mexico, USA <img src="https://icons.iconarchive.com/icons/wikipedia/flags/512/US-NM-New-Mexico-Flag-icon.png" width="25 style="vertical-align: bottom"/>
 <img src="https://icons.iconarchive.com/icons/wikipedia/flags/512/US-United-States-Flag-icon.png" width="25 style="vertical-align: bottom"/></h3>
 
@@ -34,10 +35,16 @@ You have discovered my Github profile! <br>
 <br>
 
 <div>
-
-- 👨‍💻 All of my projects are available  [here](https://github.com/madeleinemcd?tab=repositories)
-
-- 💬 Ask me about anything <a href="https://github.com/madeleinemcd/madeleinemcd/issues/new"><b>here</b></a>
+<div align="center">
+All of my projects are available  [here](https://github.com/madeleinemcd?tab=repositories)
+</br>
+</br>
+</div>
+<div align="center">
+Ask me about anything <a href="https://github.com/madeleinemcd/madeleinemcd/issues/new"><b>here</b></a>
+</br>
+</br>
+</div>
 
 </div>
 <br>
