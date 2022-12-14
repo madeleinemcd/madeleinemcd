@@ -21,7 +21,6 @@ All of my projects are available <a href="https://github.com/madeleinemcd?tab=re
 <div align="center">
 Ask me about anything <a href="https://github.com/madeleinemcd/madeleinemcd/issues/new"><b>here</b></a>
 </br>
-</br>
 </div>
 
 </div>
