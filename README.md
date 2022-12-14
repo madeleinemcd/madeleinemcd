@@ -31,12 +31,10 @@ You have discovered my Github profile! <br>
 </div>
 <br>
 <br>
-<br>
-<br>
 
 <div>
 <div align="center">
-All of my projects are available  [here](https://github.com/madeleinemcd?tab=repositories)
+All of my projects are available <a href="[https://github.com/madeleinemcd/madeleinemcd/issues/new](https://github.com/madeleinemcd?tab=repositories)"><b>here</b></a>
 </br>
 </br>
 </div>
@@ -48,14 +46,6 @@ Ask me about anything <a href="https://github.com/madeleinemcd/madeleinemcd/issu
 
 </div>
 <br>
-<br>
-<br>
-<br>
-<br>
-</br>
-</br>
-</br>
-</br>
 </br>
 <div>
 
