@@ -34,7 +34,7 @@ You have discovered my Github profile! <br>
 
 <div>
 <div align="center">
-All of my projects are available <a href="[https://github.com/madeleinemcd/madeleinemcd/issues/new](https://github.com/madeleinemcd?tab=repositories)"><b>here</b></a>
+All of my projects are available <a href="https://github.com/madeleinemcd?tab=repositories"><b>here</b></a>
 </br>
 </br>
 </div>
