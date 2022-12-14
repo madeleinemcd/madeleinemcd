@@ -6,12 +6,7 @@
 <img src="https://icons.iconarchive.com/icons/wikipedia/flags/512/US-United-States-Flag-icon.png" width="25 style="vertical-align: bottom"/></h3>
 
 <h3 align="center"> Currently living in Berlin, DE <br> <img src="https://icons.iconarchive.com/icons/wikipedia/flags/512/DE-Germany-Flag-icon.png" width="25 style="vertical-align: bottom"/></h3>
-
-<div align="center">
-You have discovered my Github profile! <br>
-
-</br>
-</br>
+  
 </br>
 </div>
 <br>
