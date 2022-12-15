@@ -7,7 +7,7 @@
     <h3 align="center"> Currently living in Berlin, DE <br> <img src="https://icons.iconarchive.com/icons/wikipedia/flags/512/DE-Germany-Flag-icon.png" width="25 style="vertical-align: bottom"/></h3>
   </div>
   <br>
-  <div align="left">
+  <div align="center">
     <h3>Tech Stack:</h3>
     <p> 
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
@@ -20,10 +20,12 @@
       <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a>
       <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
     </p>
+  </div>
   <br>
-    <h4 align="right"> Learning React and Javascript 💪 </h4>
-    <a align="right" href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-    <a align="right" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+  <div align="center">
+    <h4> Learning React and Javascript 💪 </h4>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
     <br>
   </div>
   <br>
@@ -39,7 +41,7 @@
   <div align="center">
     <h3>Let's connect!</h3>
     <p>
-    <a href="https://www.linkedin.com/in/madeleinemcd/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="60" /></a> 
+    <a href="https://www.linkedin.com/in/madeleinemcd/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="200" /></a> 
     </p>
   </div>
   <br/>
