@@ -10,7 +10,7 @@
 <br>
 I'm a Software Engineer from New Mexico, USA. 
 
-Living in Berlin, DE and working at [Evermood](https://www.evermood.com/)!
+Formerly living in Berlin, DE and working at [Evermood](https://www.evermood.com/), now back in the USA and open to work!
 
 <div> 
   <img src="https://icons.iconarchive.com/icons/wikipedia/flags/512/US-NM-New-Mexico-Flag-icon.png" width="25"/><br><img src="https://icons.iconarchive.com/icons/wikipedia/flags/512/US-United-States-Flag-icon.png" width="25" margin-left: 80px;/><br><img src="https://icons.iconarchive.com/icons/wikipedia/flags/512/DE-Germany-Flag-icon.png" width="25"/>
